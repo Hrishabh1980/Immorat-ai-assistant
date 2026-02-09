@@ -15,7 +15,5 @@ Features
 Tech Stack
 
 HTML – Structure & layout
-
 JavaScript – Logic & interactivity
-
 No frameworks, no backend, no APIs — just pure web basics.
