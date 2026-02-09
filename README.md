@@ -17,3 +17,10 @@ Tech Stack
 HTML – Structure & layout
 JavaScript – Logic & interactivity
 No frameworks, no backend, no APIs — just pure web basics.
+
+
+Immorat/
+│
+├── index.html      # Main UI of the assistant
+├── script.js       # JavaScript logic
+└── README.md       # Project documentation
