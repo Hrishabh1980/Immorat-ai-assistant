@@ -6,11 +6,7 @@ It is designed to perform basic assistant tasks directly in the browser without 
 Features
 
 🗣️ Interactive assistant interface
-
 ⚡ Fast & lightweight (no libraries used)
-
 🌐 Runs entirely in the browser
-
 🧠 Handles predefined commands and responses
-
 🎯 Beginner-friendly project structure
