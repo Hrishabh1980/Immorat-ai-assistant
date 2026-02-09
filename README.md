@@ -24,3 +24,10 @@ Immorat/
 ├── index.html      # Main UI of the assistant
 ├── script.js       # JavaScript logic
 └── README.md       # Project documentation
+
+
+How It Works
+The user interacts with Immorat through the web interface
+JavaScript captures user input
+The assistant processes predefined commands
+A suitable response is displayed to the user
